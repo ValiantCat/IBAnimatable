@@ -1,5 +1,5 @@
 ```
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://github.com/ValiantCat/IBAnimatable/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/ValiantCat/IBAnimatable/master/README.md)
 <details> 
 <summary></summary>
 custom_mark10
